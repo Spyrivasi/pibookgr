@@ -3,7 +3,7 @@ layout: page
 title: Valentine's Event
 header: no
 categories:
-  - definition
+  - archetypes
 tags:
   - mouse
   - event
